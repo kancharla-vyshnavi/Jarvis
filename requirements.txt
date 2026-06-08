@@ -1,0 +1,11 @@
+flask
+google-genai
+google-generativeai
+pillow
+requests
+beautifulsoup4
+duckduckgo-search
+numpy
+psutil
+youtube-transcript-api
+python-pptx
